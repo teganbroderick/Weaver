@@ -1,0 +1,73 @@
+Weaver 
+Output 4 - hard
+
+
+This program allows you to explore various weaving patterns for a four harness loom. You will need to switch between this screen (console) and the result screen to see your patterns drawn. Please make sure to click on this screen when you return in order to enter information. 
+The warp threads are represented by blank spaces, and the weft threads are represented by black lines.
+
+
+Please select a difficulty level for your warp: easy/hard hard
+Here are the weaving patterns available: 
+1. Plain Weave
+2. Point Draft, Straight Diagonal Sequence
+3. Birds Eye 1
+4. Birds Eye 2
+5. Birds Eye, Extended point over 14
+Please choose a number. To select a random pattern, choose 0. 3
+Please click on the result screen
+Would you like to add another pattern? yes/no yes
+Here are the weaving patterns available: 
+1. Plain Weave
+2. Point Draft, Straight Diagonal Sequence
+3. Birds Eye 1
+4. Birds Eye 2
+5. Birds Eye, Extended point over 14
+Please choose a number. To select a random pattern, choose 0. 4
+Please click on the result screen
+Would you like to add another pattern? yes/no yes
+Here are the weaving patterns available: 
+1. Plain Weave
+2. Point Draft, Straight Diagonal Sequence
+3. Birds Eye 1
+4. Birds Eye 2
+5. Birds Eye, Extended point over 14
+Please choose a number. To select a random pattern, choose 0. 2
+Please click on the result screen
+Would you like to add another pattern? yes/no 2
+Invalid input
+Would you like to add another pattern? yes/no yes
+Here are the weaving patterns available: 
+1. Plain Weave
+2. Point Draft, Straight Diagonal Sequence
+3. Birds Eye 1
+4. Birds Eye 2
+5. Birds Eye, Extended point over 14
+Please choose a number. To select a random pattern, choose 0. 2
+Please click on the result screen
+Would you like to add another pattern? yes/no yes
+Here are the weaving patterns available: 
+1. Plain Weave
+2. Point Draft, Straight Diagonal Sequence
+3. Birds Eye 1
+4. Birds Eye 2
+5. Birds Eye, Extended point over 14
+Please choose a number. To select a random pattern, choose 0. 4
+Please click on the result screen
+Would you like to add another pattern? yes/no yes
+Here are the weaving patterns available: 
+1. Plain Weave
+2. Point Draft, Straight Diagonal Sequence
+3. Birds Eye 1
+4. Birds Eye 2
+5. Birds Eye, Extended point over 14
+Please choose a number. To select a random pattern, choose 0. 3
+Please click on the result screen
+Would you like to add another pattern? yes/no no
+______________________________________________________________
+Here are the patterns you chose, in order, for your reference: 
+Birds Eye 1
+Birds Eye 2
+Point Draft, Straight Diagonal Sequence
+Point Draft, Straight Diagonal Sequence
+Birds Eye 2
+Birds Eye 1

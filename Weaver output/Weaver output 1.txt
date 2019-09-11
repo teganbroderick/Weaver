@@ -1,0 +1,161 @@
+Weaver 
+Output 1 - easy
+
+
+This program allows you to explore various weaving patterns for a four harness loom. You will need to switch between this screen (console) and the result screen to see your patterns drawn. Please make sure to click on this screen when you return in order to enter information.
+The warp threads are represented by blank spaces, and the weft threads are represented by black lines.
+
+
+Please select a difficulty level for your warp: easy/hard easy
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  1
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  2
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  3
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  4
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  5
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  6
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  7
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  8
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  9
+Please click on the result screen
+Would you like to add another pattern? yes/no  yes
+Here are the weaving patterns available:
+1. Plain Weave
+2. Twill (left to right)
+3. Twill (right to left)
+4. Extended ZigZag
+5. Hopsack
+6. 3/1 Hopsack
+7. Mixed Twill, 3x2/16
+8. Mixed Twill, 1/3 and 3/1 Twill Merging
+9. Mini Herringbone
+10. Point 2/2 Twill
+Please choose a number. To select a random pattern, choose 0.  10
+Please click on the result screen
+Would you like to add another pattern? yes/no  no
+______________________________________________________________
+Here are the patterns you chose, in order, for your reference:
+Plain Weave
+Twill (left to right)
+Twill (right to left)
+Extended ZigZag
+Hopsack
+3/1 Hopsack
+Mixed Twill, 3x2/16
+Mixed Twill, 1/3 and 3/1 Twill Merging
+Mini Herringbone
+Point 2/2 Twill
